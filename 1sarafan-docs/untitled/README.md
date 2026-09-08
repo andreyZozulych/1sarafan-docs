@@ -2,7 +2,7 @@
 
 ## Шаг 1. Регистрация
 
-Перейди на <mark style="color:blue;">tsl-apps.com,</mark> введи E-mail, пароль и Telegram. Нажми **Зарегистрироваться.** Также возможна регистрация через Telegram, для этого кликни **With Telegram.**
+Перейди на <mark style="color:blue;">1sarafan.com,</mark> введи E-mail, пароль и Telegram. Нажми **Зарегистрироваться.** Также возможна регистрация через Telegram, для этого кликни **With Telegram.**
 
 <figure><img src=".gitbook/assets/01-reg.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@
 <figure><img src=".gitbook/assets/06-image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Важно:** Как подключить свой домен описано [здесь](/broken/pages/W8uTh7NqpBAozJP4SdG2). Или обращайся  в [<mark style="color:blue;">поддержку t</mark>](https://t.me/tslapps_head)<mark style="color:blue;">sl-apps.com</mark>
+**Важно:** Как подключить свой домен описано [здесь](setup-1sarafan/sobstvennyi-domen.md). Или обращайся в [<mark style="color:blue;">поддержку 1sarafan.com</mark>](https://t.me/PWA1saravan_manager)
 {% endhint %}
 
 ## Шаг 4. Оформление PWA&#x20;
@@ -86,15 +86,15 @@
 
 ### Интеграция с Keitaro
 
-Создай новый источник, в шаблоне выбери **Tsl-apps.com**. Все параметры заполнятся автоматически. При необходимости ты сможешь добавить другие параметры или отредактировать текущие.
+Создай новый источник и заполни параметры вручную. При необходимости ты сможешь добавить другие параметры или отредактировать текущие.
 
-Перейди в свою кампанию и выбери **Tsl-apps.com** как источник — все необходимые настройки будут применены автоматически.
+Перейди в свою кампанию и выбери созданный источник — все необходимые настройки будут применены автоматически.
 
 <figure><img src=".gitbook/assets/10-Screenshot 2025-02-26 at 11.32.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Интеграция с Binom
 
-Создай новый источник и укажи [https://api.tsl-apps.com/v1/postbacks?subid={external\_id}\&tid={clickid}\&status={cnv\_status}\&payout={payout}\&currency=usd ](https://api.tsl-apps.com/v1/postbacks?subid={external_id}\&tid={clickid}\&status={cnv_status}\&payout={payout}\&currency=usd)как **Postback Url,** проставь следующие параметры:
+Создай новый источник и укажи [https://api.1sarafan.com/v1/postbacks?subid={external\_id}\&tid={clickid}\&status={cnv\_status}\&payout={payout}\&currency=usd ](https://api.1sarafan.com/v1/postbacks?subid={external_id}\&tid={clickid}\&status={cnv_status}\&payout={payout}\&currency=usd)как **Postback Url,** проставь следующие параметры:
 
 <figure><img src=".gitbook/assets/11-Screenshot 2025-02-26 at 11.46.35 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -134,7 +134,7 @@ gcid - Google conversion id
 
 ## 🎉 Финал. Активация PWA
 
-После выставления настроек можно смело нажимать **Запустить.** PWA будет создана в течение 2-х минут. Если процесс занимает дольше — обратись в [саппорт](https://t.me/tslapps_head).
+После выставления настроек можно смело нажимать **Запустить.** PWA будет создана в течение 2-х минут. Если процесс занимает дольше — обратись в [саппорт](https://t.me/PWA1saravan_manager).
 
 <figure><img src=".gitbook/assets/13-save.jpg" alt=""><figcaption></figcaption></figure>
 
