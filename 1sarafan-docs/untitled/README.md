@@ -4,47 +4,43 @@
 
 Перейди на <mark style="color:blue;">1sarafan.com,</mark> введи E-mail, пароль и Telegram. Нажми **Зарегистрироваться.** Также возможна регистрация через Telegram, для этого кликни **With Telegram.**
 
-<figure><img src=".gitbook/assets/01-reg.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.51.01 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 2. Добавление домена
 
 Перейди на вкладку **Traffic\&Routing** и нажмите кнопку **Add domain.**
 
-<figure><img src=".gitbook/assets/02-image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.53.06 PM.png" alt=""><figcaption></figcaption></figure>
 
-Для работы с доменами доступно 3 варианта:&#x20;
+Для работы с доменами доступно 3 варианта:
 
-1. Покупка домена&#x20;
+1. Покупка домена
 2. Использование системного для создания поддомена
 3. Подключение своего
 
-<figure><img src=".gitbook/assets/03-image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.53.56 PM.png" alt=""><figcaption></figcaption></figure>
 
 Выбери желаемый вариант и следуйте инструкции.
-
-
 
 ## Шаг 3. Заполнение данных в PWA
 
 Откройте вкладку **PWA** и нажмите **Create PWA**
 
-<figure><img src=".gitbook/assets/04-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.54.30 PM.png" alt=""><figcaption></figcaption></figure>
 
 Во вкладке **General** подключите добавленный вами домен
 
-<figure><img src=".gitbook/assets/05-image.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.55.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 Во вкладке **Tracker укажите странну и ссылку** на оффер
 
-<figure><img src=".gitbook/assets/06-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.02.34 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Важно:** Как подключить свой домен описано [здесь](setup-1sarafan/sobstvennyi-domen.md). Или обращайся в [<mark style="color:blue;">поддержку 1sarafan.com</mark>](https://t.me/PWA1saravan_manager)
 {% endhint %}
 
-## Шаг 4. Оформление PWA&#x20;
+## Шаг 4. Оформление PWA
 
 ### Шаблоны PWA и AI
 
@@ -54,14 +50,14 @@
 **Важно:** Для корректной генерации PWA с помощью AI вернись в раздел "**Design**" и выберите язык, который AI должен использовать для генерации контента.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/07-generate.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.03.34 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Собственный дизайн
 
 Всё интуитивно понятно, но есть нюансы, на которые стоит обратить внимание для корректной работы и более высокого конверта.
 
 {% hint style="info" %}
-**Иконка приложения:** соответствие сторон для логотипа — 1:1, вес картинки — до 1-2 МБ.&#x20;
+**Иконка приложения:** соответствие сторон для логотипа — 1:1, вес картинки — до 1-2 МБ.
 
 Помни, что в Tier-3 гео Интернет работает медленно — долгая загрузка картинок может негативно повлиять на Click2Install.
 {% endhint %}
@@ -72,15 +68,13 @@
 Все картинки должны идти друг за другом, в противном случае — ошибка генерации PWA, корректный пример ниже.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/08-images.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.12.04 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 5. Комментарии
 
 Переходим в раздел **Комментарии.** Можно генерировать их с помощью AI или вручную. Обрати внимание: во время генерации комментария с помощью AI за основу будет взят язык, выбранный в разделе **Трекер.**
 
-<figure><img src=".gitbook/assets/09-comments.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.16.23 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 6. Интеграция с вашим трекером
 
@@ -110,13 +104,13 @@
 
 В разделе **Аналитика** мы выбираем ранее созданный пиксель из выпадающего списка.
 
-<figure><img src=".gitbook/assets/12-pixel.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.17.37 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 🚨 Важно! Подключение пикселя в PWA
 
-После создания пикселя для корректной передачи ивентов нужно **обязательно** указать в ссылке PWA. \
+После создания пикселя для корректной передачи ивентов нужно **обязательно** указать в ссылке PWA.\
 \
-К примеру: домен PWA — `horangonik.store` , ты работаешь с FB-пикселем с идентификатором `7489092067849184` . Тогда ссылка должна выглядеть следующим образом:  `https://horangonik.store?fbp=7489092067849184`
+К примеру: домен PWA — `horangonik.store` , ты работаешь с FB-пикселем с идентификатором `7489092067849184` . Тогда ссылка должна выглядеть следующим образом: `https://horangonik.store?fbp=7489092067849184`
 
 Это касается и других пикселей. Вот список параметров:
 
@@ -136,9 +130,8 @@ gcid - Google conversion id
 
 После выставления настроек можно смело нажимать **Запустить.** PWA будет создана в течение 2-х минут. Если процесс занимает дольше — обратись в [саппорт](https://t.me/PWA1saravan_manager).
 
-<figure><img src=".gitbook/assets/13-save.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.18.38 PM.png" alt=""><figcaption></figcaption></figure>
 
 Полную ссылку для запуска приложения можно скопировать внутри PWA
 
-<figure><img src=".gitbook/assets/14-image.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.22.01 PM.png" alt=""><figcaption></figcaption></figure>

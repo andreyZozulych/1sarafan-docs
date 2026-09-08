@@ -32,9 +32,3 @@
 
 <figure><img src="../.gitbook/assets/02-image-3.webp" alt=""><figcaption></figcaption></figure>
 
-## Шаг 3. Подключение домена
-
-При создании PWA выбери добавление домена и заполни все необходимые поля.
-
-<figure><img src="../.gitbook/assets/03-image.png" alt=""><figcaption></figcaption></figure>
-

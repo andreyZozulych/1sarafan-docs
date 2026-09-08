@@ -7,7 +7,7 @@
 1. Whitepage by 1sarafan (системный).
 2. 404 error.
 
-<figure><img src="../.gitbook/assets/01-wp.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.26.49 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Какой тип лучше всего использовать?
 

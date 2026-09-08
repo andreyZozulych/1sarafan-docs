@@ -3,13 +3,13 @@
 Во вкладке **Push** можно выбрать два типа пушей: интервальные и по действию.\
 Выбирай нужный раздел и создавай пуш по кнопке **Create Push**.
 
-<figure><img src="../.gitbook/assets/01-image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.30.12 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Создание интервального пуша
 
 При создании интервального пуша можно задать, в какие дни и в какое время он будет отправлен.
 
-<figure><img src="../.gitbook/assets/02-image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.30.57 PM.png" alt=""><figcaption></figcaption></figure>
 
 Во вкладке “Контент” можно задать:
 
@@ -40,7 +40,7 @@
 
 А также время задержки перед отправкой.
 
-<figure><img src="../.gitbook/assets/03-image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.31.27 PM.png" alt=""><figcaption></figcaption></figure>
 
 Во вкладке "Таргетинг" можно задать фильтры:
 
@@ -54,10 +54,10 @@
 
 Для корректной работы кастомных пушей, в настройках PWA должен быть выклчен тумблер на отправку "дефолтных" пушей.&#x20;
 
-<figure><img src="../.gitbook/assets/04-image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.32.13 PM.png" alt=""><figcaption></figcaption></figure>
 
 Также вы можете объединить пуши в единную группу для более быстрого подключения внутри PWA
 
-<figure><img src="../.gitbook/assets/05-image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.32.38 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/06-image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.33.10 PM.png" alt=""><figcaption></figcaption></figure>

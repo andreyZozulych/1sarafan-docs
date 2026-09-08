@@ -18,4 +18,4 @@
 
 Копируем ID, переходим в редактирование PWA и открываем вкладку "Аналитика". В cursor id — вводим наш ID счётчика метрики и сохраняем. Далее нажимаем "Начать пользоваться".&#x20;
 
-<figure><img src=".gitbook/assets/02-image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.29.14 PM.png" alt=""><figcaption></figcaption></figure>

@@ -26,8 +26,6 @@
 
 ## Полезное
 
-***
-
 * [Макросы и Sub ID для postback](makrosy-i-sub-id-dlya-postback.md)
 * [Макросы для PWA](makrosy-dlya-pwa.md)
 * [Командный доступ](komandnyi-dostup.md)

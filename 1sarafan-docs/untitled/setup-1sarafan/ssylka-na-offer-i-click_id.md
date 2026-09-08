@@ -24,4 +24,4 @@ external_id={user_id}
 
 В интерфейсе это отображается примерно так:
 
-<figure><img src="../.gitbook/assets/01-external.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.24.48 PM.png" alt=""><figcaption></figcaption></figure>
