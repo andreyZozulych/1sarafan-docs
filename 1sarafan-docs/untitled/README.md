@@ -37,7 +37,7 @@
 <figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.02.34 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Важно:** Как подключить свой домен описано [здесь](setup-1sarafan/sobstvennyi-domen.md). Или обращайся в [<mark style="color:blue;">поддержку 1sarafan.com</mark>](https://t.me/PWA1saravan_manager)
+**Важно:** Как подключить свой домен описано [здесь](setup-1sarafan/connect-domain.md). Или обращайся в [<mark style="color:blue;">поддержку 1sarafan.com</mark>](https://t.me/PWA1saravan_manager)
 {% endhint %}
 
 ## Шаг 4. Оформление PWA
