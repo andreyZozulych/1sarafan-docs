@@ -4,13 +4,13 @@
 
 Перейди на <mark style="color:blue;">1sarafan.com,</mark> введи E-mail, пароль и Telegram. Нажми **Зарегистрироваться.** Также возможна регистрация через Telegram, для этого кликни **With Telegram.**
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 2. Добавление домена
 
 Перейди на вкладку **Traffic\&Routing** и нажмите кнопку **Add domain.**
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.53.06 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 Для работы с доменами доступно 3 варианта:
 
