@@ -18,7 +18,7 @@
 2. Использование системного для создания поддомена
 3. Подключение своего
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.53.56 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 Выбери желаемый вариант и следуйте инструкции.
 
@@ -26,15 +26,15 @@
 
 Откройте вкладку **PWA** и нажмите **Create PWA**
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.54.30 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 Во вкладке **General** подключите добавленный вами домен
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 12.55.40 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 Во вкладке **Tracker укажите странну и ссылку** на оффер
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.02.34 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Важно:** Как подключить свой домен описано [здесь](setup-1sarafan/connect-domain.md). Или обращайся в [<mark style="color:blue;">поддержку 1sarafan.com</mark>](https://t.me/PWA1saravan_manager)
@@ -50,7 +50,7 @@
 **Важно:** Для корректной генерации PWA с помощью AI вернись в раздел "**Design**" и выберите язык, который AI должен использовать для генерации контента.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.03.34 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 ### Собственный дизайн
 
@@ -68,13 +68,13 @@
 Все картинки должны идти друг за другом, в противном случае — ошибка генерации PWA, корректный пример ниже.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.12.04 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 5. Комментарии
 
 Переходим в раздел **Комментарии.** Можно генерировать их с помощью AI или вручную. Обрати внимание: во время генерации комментария с помощью AI за основу будет взят язык, выбранный в разделе **Трекер.**
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.16.23 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 6. Интеграция с вашим трекером
 
@@ -130,8 +130,8 @@ gcid - Google conversion id
 
 После выставления настроек можно смело нажимать **Запустить.** PWA будет создана в течение 2-х минут. Если процесс занимает дольше — обратись в [саппорт](https://t.me/PWA1saravan_manager).
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.18.38 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 Полную ссылку для запуска приложения можно скопировать внутри PWA
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.22.01 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
