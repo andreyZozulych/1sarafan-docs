@@ -18,7 +18,7 @@
 
 После переноса управления DNS в CloudFlare можно настроить свой домен для работы с pwa.bot, следуя оставшимся указаниям.
 
-<figure><img src="../.gitbook/assets/01-image-2.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Копия d1.png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 2. Где взять API ключ CloudFlare?
 
@@ -30,5 +30,4 @@
 4. Найди раздел "API Keys" (API Ключи) и нажми на "View" (Посмотреть) рядом с "Global API Key" (Глобальный API Ключ).
 5. Введи пароль от аккаунта CloudFlare, чтобы подтвердить действие и отобразить Global API Key.
 
-<figure><img src="../.gitbook/assets/02-image-3.webp" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/Копия d2.png" alt=""><figcaption></figcaption></figure>
