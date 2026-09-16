@@ -104,7 +104,7 @@
 
 В разделе **Аналитика** мы выбираем ранее созданный пиксель из выпадающего списка.
 
-<figure><img src=".gitbook/assets/Screenshot 2026-09-08 at 1.17.37 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/analitica.png" alt=""><figcaption></figcaption></figure>
 
 ### 🚨 Важно! Подключение пикселя в PWA
 
