@@ -10,7 +10,7 @@
 
 Все трекеры и ПП имеют свой формат, в котором принимают внешний user\_id. Это можно посмотреть в документации или уточнить у менеджера. В Keitaro, например, он называется `external_id`, а в некоторых ПП — `subacc`, `sub` или `clickid`.
 
-Во всех случаях логика одинаковая — нужно параметр к ссылке на оффер.&#x20;
+Во всех случаях логика одинаковая — нужно параметр к ссылке на оффер.
 
 ```
 key={user_id}
@@ -24,4 +24,4 @@ external_id={user_id}
 
 В интерфейсе это отображается примерно так:
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.24.48 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/click.id.png" alt=""><figcaption></figcaption></figure>

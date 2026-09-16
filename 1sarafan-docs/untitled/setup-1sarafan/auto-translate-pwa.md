@@ -8,7 +8,7 @@
 
 Да, при добавлении нового языка можно выбрать, откуда скопировать текст для перевода.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-09-08 at 1.27.48 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/auto_pwa.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Полезно:** Чтобы не переносить все настройки вручную, в разделе **PWA** можно скопировать нужное приложение в один клик. Всё, что останется сделать — выбрать новый домен.
