@@ -90,7 +90,7 @@
 
 Создай новый источник и укажи [https://api.1sarafan.com/v1/postbacks?subid={external\_id}\&tid={clickid}\&status={cnv\_status}\&payout={payout}\&currency=usd ](https://api.1sarafan.com/v1/postbacks?subid={external_id}\&tid={clickid}\&status={cnv_status}\&payout={payout}\&currency=usd)как **Postback Url,** проставь следующие параметры:
 
-<figure><img src=".gitbook/assets/11-Screenshot 2025-02-26 at 11.46.35 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/binom2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 После этого выбери данный источник в своей кампании.
 
