@@ -8,7 +8,7 @@
 
 ## Шаг 2. Добавление домена
 
-Перейди на вкладку **Traffic\&Routing** и нажмите кнопку **Add domain.**
+Перейди на вкладку Domains и нажмите кнопку **Add domain.**
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
