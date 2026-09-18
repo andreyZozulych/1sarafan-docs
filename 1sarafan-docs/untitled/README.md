@@ -80,9 +80,12 @@
 
 ### Интеграция с Keitaro
 
-Создай новый источник и выбери шаблон 1Sarafan.com. Все параметры, а также S2S-постбэк добавяться автоматически.
+В кейтаро перейдите во вкладку "Источники"\
+Введите название - 1Sarafan.com
 
-Перейди в свою кампанию и выбери созданный источник — все необходимые настройки будут применены автоматически.
+В поле "S2S postback" добавьте ссылку: [https://api.1sarafan.com/v1/postbacks?subid={external\_id}\&tid={tid}\&status={status}\&payout={conversion\_revenue:usd}\&currency=usd](https://api.1sarafan.com/v1/postbacks?subid={external_id}\&tid={tid}\&status={status}\&payout={conversion_revenue:usd}\&currency=usd)<br>
+
+На текущий момент, шаблон в трекер не добавлен,  поэтому введите только название и параметры как на скриншоте. После этого в любой кампании выберите источник 1Sarafan и параметры подтянуться автоматически.
 
 <figure><img src=".gitbook/assets/source.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
